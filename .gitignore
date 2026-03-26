@@ -1,0 +1,4 @@
+# Ignore weird stuff created by Emacs autosaves
+*~
+*#*#
+.#*
